@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adan Enrique Ramirez Cisneros</h1>
 <h3 align="center">A junior frontend developer with knowledge in react and who likes to learn new technologies</h3>
 
-- 🔭 I’m currently working on [Ecommerce-MERN](https://github.com/KatzuneStarky/Ecommerce-MERN)
+- 🔭 I’m currently working on [Omamori Shop - Ecommerce-MERN](https://github.com/KatzuneStarky/Ecommerce-MERN)
 
 - 🌱 I’m currently learning **Flutter, React Native, Kotlin, NextJs**
 
